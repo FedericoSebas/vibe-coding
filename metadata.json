@@ -1,0 +1,8 @@
+{
+  "name": "Nasdaq Sim",
+  "description": "Educational paper trading simulator for the NASDAQ market featuring live market quotes, candlestick & line charts, simulated $100,000 capital, limit & market orders, portfolio analytics, and interactive trading tutorials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
